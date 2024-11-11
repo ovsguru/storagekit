@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.source           = { :path => '*' }
   s.ios.deployment_target = '13.0'
   s.source_files = '**/*.{swift}'
-  s.dependency 'EasyDI', '~> 1.6.1'
+  s.dependency 'EasyDi', '~> 1.6.1'
 end
